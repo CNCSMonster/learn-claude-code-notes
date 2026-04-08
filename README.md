@@ -6,14 +6,11 @@
 
 [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) 项目的中文学习笔记，采用 QA 形式整理每个 session 的核心概念。
 
+## 🌐 在线阅读
+
+**[👉 点击此处浏览在线版本](https://CNCSMonster.github.io/learn-claude-code-notes/)**
+
 ## 📖 阅读方式
-
-### 在线浏览（推荐）
-
-部署到 GitHub Pages 后访问：
-```
-https://CNCSMonster.github.io/learn-claude-code-notes/
-```
 
 ### 本地阅读
 
