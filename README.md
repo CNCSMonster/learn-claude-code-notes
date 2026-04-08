@@ -107,6 +107,17 @@ mdbook build
 - [原项目文档（英文）](./learn-claude-code/docs/en/)
 - [rust-patterns-notes](https://github.com/CNCSMonster/rust-patterns-notes) - 本项目参考格式
 
+## 🛠️ 技术栈
+
+| 组件 | 技术 |
+|------|------|
+| 静态站点生成器 | [mdBook](https://github.com/rust-lang/mdBook) |
+| 中文搜索支持 | [mdbook-zh-search](https://github.com/CNCSMonster/mdbook-zh-search) |
+| 部署 | GitHub Actions + GitHub Pages |
+| 代码高亮 | Mermaid (流程图) |
+
+本项目使用 [`cncsmonster/mdbook-zh-search`](https://github.com/CNCSMonster/mdbook-zh-search) 提供中文全文搜索支持。
+
 ## 📝 许可证
 
 MIT
