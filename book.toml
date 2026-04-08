@@ -1,0 +1,28 @@
+[book]
+title = "Learn Claude Code Notes"
+authors = ["CNCSMonster"]
+description = "Learn Claude Code - Harness Engineering for Real Agents 中文学习笔记"
+language = "zh-CN"
+src = "src"
+
+[build]
+create-missing = false
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+optional = true
+
+[output.html]
+smart-punctuation = true
+default-theme = "light"
+site-url = "/learn-claude-code-notes/"
+git-repository-url = "https://github.com/CNCSMonster/learn-claude-code-notes"
+edit-url-template = "https://github.com/CNCSMonster/learn-claude-code-notes/edit/main/src/{path}"
+
+[output.html.fold]
+enable = true
+level = 1
+
+[output.html.playground]
+editable = true
+copyable = true
