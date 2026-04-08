@@ -105,7 +105,6 @@ mdbook build
 - [原项目 GitHub](https://github.com/shareAI-lab/learn-claude-code)
 - [原项目文档（中文）](./learn-claude-code/docs/zh/)
 - [原项目文档（英文）](./learn-claude-code/docs/en/)
-- [rust-patterns-notes](https://github.com/CNCSMonster/rust-patterns-notes) - 本项目参考格式
 
 ## 🛠️ 技术栈
 
