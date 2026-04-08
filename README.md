@@ -109,14 +109,7 @@ mdbook build
 
 ## 🛠️ 技术栈
 
-| 组件 | 技术 |
-|------|------|
-| 静态站点生成器 | [mdBook](https://github.com/rust-lang/mdBook) |
-| 中文搜索支持 | [mdbook-zh-search](https://github.com/CNCSMonster/mdbook-zh-search) |
-| 部署 | GitHub Actions + GitHub Pages |
-| 代码高亮 | Mermaid (流程图) |
-
-本项目使用 [`cncsmonster/mdbook-zh-search`](https://github.com/CNCSMonster/mdbook-zh-search) 提供中文全文搜索支持。
+本项目使用 [mdbook-zh-search](https://github.com/cncsmonster/mdbook-zh-search) 构建，它是 mdBook 的增强版本，提供了更好的中文搜索支持。
 
 ## 📝 许可证
 
