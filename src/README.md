@@ -8,7 +8,7 @@
 
 这是 [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) 项目的中文学习笔记。
 
-**原文档**：[learn-claude-code/docs/zh/](../learn-claude-code/docs/zh/)
+**原文档**：[learn-claude-code/docs/zh/](https://github.com/shareAI-lab/learn-claude-code/blob/16b927c8ee7befa07caf8844d22f86ffef0aea05/docs/zh/)
 
 ## 核心思想
 

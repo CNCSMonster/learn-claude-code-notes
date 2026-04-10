@@ -103,8 +103,8 @@ mdbook build
 ## 🔗 参考资源
 
 - [原项目 GitHub](https://github.com/shareAI-lab/learn-claude-code)
-- [原项目文档（中文）](./learn-claude-code/docs/zh/)
-- [原项目文档（英文）](./learn-claude-code/docs/en/)
+- [原项目文档（中文）](https://github.com/shareAI-lab/learn-claude-code/blob/16b927c8ee7befa07caf8844d22f86ffef0aea05/docs/zh)
+- [原项目文档（英文）](https://github.com/shareAI-lab/learn-claude-code/blob/16b927c8ee7befa07caf8844d22f86ffef0aea05/docs/en)
 
 ## 🛠️ 技术栈
 
